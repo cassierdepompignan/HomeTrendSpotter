@@ -1,0 +1,96 @@
+====================================================================
+  HomeTrendSpotter - GUIDE D'INSTALLATION SUR UN NOUVEL ORDINATEUR
+====================================================================
+Cree le : 04/09/2026
+Votre projet est sauvegarde sur GitHub : https://github.com/cassierdepompignan/HomeTrendSpotter
+
+Ce guide vous permet de recuperer et lancer votre projet sur un autre ordinateur.
+Suivez les etapes dans l'ordre.
+
+--------------------------------------------------------------------
+ETAPE 1 - INSTALLER LES OUTILS NECESSAIRES (a faire une seule fois)
+--------------------------------------------------------------------
+
+Tous ces outils sont GRATUITS.
+
+1) Node.js  (necessaire pour faire tourner le site)
+   -> Allez sur https://nodejs.org
+   -> Cliquez sur le gros bouton vert "LTS" (version recommandee)
+   -> Lancez l'installeur telecharge, cliquez "Suivant" jusqu'au bout
+   -> Acceptez tout par defaut
+
+2) Git  (necessaire pour recuperer le code depuis GitHub)
+   -> Allez sur https://git-scm.com/download/win
+   -> Cliquez sur le bouton "Download"
+   -> Lancez l'installeur, acceptez tout par defaut
+
+3) VS Code (optionnel mais recommande - l'editeur de code)
+   -> Allez sur https://code.visualstudio.com
+   -> Cliquez sur "Download for Windows"
+   -> Lancez l'installeur, acceptez tout
+
+--------------------------------------------------------------------
+ETAPE 2 - RECUPERER LE PROJET DEPUIS GITHUB
+--------------------------------------------------------------------
+
+1) Ouvrez "Git Bash" (menu Demarrer -> cherchez "Git Bash")
+   Une petite fenetre noire s'ouvre.
+
+2) Recuperez le projet en tapant cette commande puis Entree :
+   git clone https://github.com/cassierdepompignan/HomeTrendSpotter.git
+
+3) Entrez dans le dossier du projet :
+   cd HomeTrendSpotter
+
+4) Installez les dependances (les bibliotheques du projet) :
+   npm install
+   -> Attendez la fin (quelques minutes, ca affiche des lignes qui defilent)
+
+--------------------------------------------------------------------
+ETAPE 3 - LANCER LE SITE EN LOCAL
+--------------------------------------------------------------------
+
+Dans Git Bash, tapez :
+   npm run dev
+
+Vous verrez s'afficher quelque chose comme :
+   http://localhost:3000
+
+Ouvrez votre navigateur et allez sur :
+   http://localhost:3000
+   -> Votre application HomeTrendSpotter est la !
+
+Pour ARRETER le site, faites Ctrl + C dans Git Bash.
+
+--------------------------------------------------------------------
+ETAPE 4 - DEPLOYER SUR VERCEL (mettre le site en ligne)
+--------------------------------------------------------------------
+
+1) Installez Vercel dans Git Bash :
+   npm install -g vercel
+
+2) Connectez-vous :
+   vercel login
+   -> Un lien apparait, cliquez dessus, connectez-vous avec GitHub
+
+3) Deployez le site :
+   vercel --prod
+   -> Repondez aux questions (toujours oui / Entree)
+   -> Vercel vous donne une URL publique a la fin
+
+--------------------------------------------------------------------
+PETITS RAPPELS UTILES
+--------------------------------------------------------------------
+
+- Le projet actuel s'appelait au debut "deco-trends", mais c'est le meme code.
+- Le nom de l'application (dans le code) est encore "DecoTrends" par endroits.
+  On pourra tout renommer en "HomeTrendSpotter" plus tard.
+- Pour envoyer vos modifications sur GitHub (a faire apres chaque changement) :
+     git add -A
+     git commit -m "Description de ce que j'ai change"
+     git push
+- Le site deja deploye est visible sur : https://home-trend-spotter.vercel.app
+
+====================================================================
+FIN DU GUIDE - Vous avez tout ce qu'il faut !
+====================================================================
