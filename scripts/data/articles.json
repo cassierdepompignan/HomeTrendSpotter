@@ -1,0 +1,279 @@
+[
+  {
+    "title": "Tendances déco automne-hiver 2026 : le retour du velours et du terroir",
+    "url": "https://www.elledecoration.fr/tendances/ah26-velours-terroir",
+    "source": "Elle Décoration",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:00:00",
+    "content_preview": "Cette saison, le velours reprend ses droits dans les intérieurs contemporains. Les tons terracotta, ocre et sauge dominent les palettes des maisons de décoration. Le style japonandi mélange minimalisme et chaleur naturelle.",
+    "keywords": {
+      "styles": ["japonandi", "contemporain", "minimaliste"],
+      "couleurs": ["terracotta", "ocre", "sauge", "vert"],
+      "materiaux": ["velours", "bois", "lin", "pierre"],
+      "meubles": ["canapé", "fauteuil", "table basse"],
+      "themes": ["luxe discret", "biophilie", "texture"]
+    },
+    "color_mentions": ["terracotta", "ocre", "sauge", "vert"],
+    "dominant_colors": [
+      {"hex": "#C2452D", "rgb": [194, 69, 45]},
+      {"hex": "#CC7722", "rgb": [204, 119, 34]},
+      {"hex": "#B2AC88", "rgb": [178, 172, 136]},
+      {"hex": "#F5F0E6", "rgb": [245, 240, 230]},
+      {"hex": "#8B7355", "rgb": [139, 115, 85]}
+    ]
+  },
+  {
+    "title": "La biophilie dans tous ses états :植物 pressentes dans la déco d'intérieur",
+    "url": "https://www.elledecoration.fr/biophilie-interieur-2026",
+    "source": "Elle Décoration",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:05:00",
+    "content_preview": "Les plantes vertes ne sont plus un accessoire mais un pilier de la décoration. Le bambou, le rotin et le raphia créent une atmosphère naturale. Les tons verts dominent les pièces de vie.",
+    "keywords": {
+      "styles": ["scandinave", "nordique"],
+      "couleurs": ["vert", "menthe", "olive", "sauge"],
+      "materiaux": ["bambou", "rotin", "jute", "bois"],
+      "meubles": ["étagère", "plan de travail"],
+      "themes": ["biophilie", "végétal", "artisanat", "lumière naturelle"]
+    },
+    "color_mentions": ["vert", "menthe", "olive", "sauge"],
+    "dominant_colors": [
+      {"hex": "#2D5A27", "rgb": [45, 90, 39]},
+      {"hex": "#98FF98", "rgb": [152, 255, 152]},
+      {"hex": "#808000", "rgb": [128, 128, 0]},
+      {"hex": "#F0E68C", "rgb": [240, 230, 140]},
+      {"hex": "#DEB887", "rgb": [222, 184, 135]}
+    ]
+  },
+  {
+    "title": "L'art de la table à la française : vaisselle artisanale et centrepieces éphémères",
+    "url": "https://www.cabana.fr/art-table-francaise-2026",
+    "source": "Cabana",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:10:00",
+    "content_preview": "La vaisselle en céramique artisanale remplace la porcelaine industrielle. Les bougeoirs en laiton et les nappes en lin créent une ambiance chaleureuse. Le style baroque intègre des éléments contemporains.",
+    "keywords": {
+      "styles": ["baroque", "contemporain", "provençal"],
+      "couleurs": ["blanc", "lin", "beige", "ocre"],
+      "materiaux": ["céramique", "laiton", "lin", "verre"],
+      "meubles": ["table", "buffet"],
+      "art_de_la_table": ["vaisselle", "bougeoir", "nappe", "centrepiece", "carafe"],
+      "themes": ["artisanat", "fait main"]
+    },
+    "color_mentions": ["blanc", "lin", "beige", "ocre"],
+    "dominant_colors": [
+      {"hex": "#FAF0E6", "rgb": [250, 240, 230]},
+      {"hex": "#F5F5DC", "rgb": [245, 245, 220]},
+      {"hex": "#CC7722", "rgb": [204, 119, 34]},
+      {"hex": "#DAA520", "rgb": [218, 165, 32]},
+      {"hex": "#8B4513", "rgb": [139, 69, 19]}
+    ]
+  },
+  {
+    "title": "Méditerranée : les villas inspirées de la Côte d'Azur et de la Grèce",
+    "url": "https://www.cotesud.fr/villa-mediterranee-deco-2026",
+    "source": "Côté Sud",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:15:00",
+    "content_preview": "Les intérieurs méditerranéens adoptent le béton brut, la pierre de taille et les volets en bois. Le bleu océan, le blanc éclatant et le terracotta créent une atmosphère estivale permanente.",
+    "keywords": {
+      "styles": ["méridional", "colonial", "campagne"],
+      "couleurs": ["bleu", "blanc", "terracotta", "océan", "ciel"],
+      "materiaux": ["pierre", "béton", "bois", "terre cuite"],
+      "meubles": ["console", "miroir", "lampadaire"],
+      "themes": ["lumière naturelle", "espace", "confortcore"]
+    },
+    "color_mentions": ["bleu", "blanc", "terracotta", "océan", "ciel"],
+    "dominant_colors": [
+      {"hex": "#1E3A5F", "rgb": [30, 58, 95]},
+      {"hex": "#87CEEB", "rgb": [135, 206, 235]},
+      {"hex": "#FFFFFF", "rgb": [255, 255, 255]},
+      {"hex": "#C2452D", "rgb": [194, 69, 45]},
+      {"hex": "#DEB887", "rgb": [222, 184, 135]}
+    ]
+  },
+  {
+    "title": "Quiet luxury : le luxe discret envahit les intérieurs parisiens",
+    "url": "https://www.elledecoration.fr/quiet-luxury-interieur-paris",
+    "source": "Elle Décoration",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:20:00",
+    "content_preview": "Le mouvement quiet luxury privilégie les matériaux nobles : marbre, noyer massif, velours profond. Les couleurs sont sobres — anthracite, camel, magnolia — avec des touches de laiton brossé.",
+    "keywords": {
+      "styles": ["minimaliste", "contemporain", "luxe"],
+      "couleurs": ["anthracite", "camel", "magnolia", "noir", "beige"],
+      "materiaux": ["marbre", "noyer", "velours", "laiton", "acier"],
+      "meubles": ["canapé", "bureau", "étagère", "commode"],
+      "themes": ["luxe discret", "quiet luxury", "symétrie"]
+    },
+    "color_mentions": ["anthracite", "camel", "magnolia", "noir", "beige"],
+    "dominant_colors": [
+      {"hex": "#2D2D2D", "rgb": [45, 45, 45]},
+      {"hex": "#C19A6B", "rgb": [193, 154, 107]},
+      {"hex": "#F8EDCF", "rgb": [248, 237, 207]},
+      {"hex": "#1A1A1A", "rgb": [26, 26, 26]},
+      {"hex": "#D4AF37", "rgb": [212, 175, 55]}
+    ]
+  },
+  {
+    "title": "Wabi-sabi : l'art de l'imperfection dans la décoration japonaise",
+    "url": "https://www.cabana.fr/wabi-sabi-japon-deco-2026",
+    "source": "Cabana",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:25:00",
+    "content_preview": "Le wabi-sabi continue d'influencer la décoration européenne. La terre cuite brute, le lin froissé, le bois brut et la céramique imparfaite créent des espaces sereins. Les tons sont doux : sable, lin, ocre pâle.",
+    "keywords": {
+      "styles": ["wabi-sabi", "japonandi", "minimaliste"],
+      "couleurs": ["sable", "lin", "ocre", "beige", "lin"],
+      "materiaux": ["terre cuite", "lin", "bois", "céramique", "pierre"],
+      "meubles": ["table basse", "chevet", "étagère"],
+      "themes": ["artisanat", "fait main", "texture", "lumière naturelle", "espace"]
+    },
+    "color_mentions": ["sable", "lin", "ocre", "beige"],
+    "dominant_colors": [
+      {"hex": "#C3B091", "rgb": [195, 176, 145]},
+      {"hex": "#FAF0E6", "rgb": [250, 240, 230]},
+      {"hex": "#CC7722", "rgb": [204, 119, 34]},
+      {"hex": "#D2B48C", "rgb": [210, 180, 140]},
+      {"hex": "#8B7355", "rgb": [139, 115, 85]}
+    ]
+  },
+  {
+    "title": "Art déco 2.0 : les néons dorés et les courbes géométriques",
+    "url": "https://www.elledecoration.fr/art-deco-moderne-2026",
+    "source": "Elle Décoration",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:30:00",
+    "content_preview": "L'art déco revient en force avec des reinterpretations modernes. Le laiton doré, les motifs géométriques et les courbes audacieuses se marient au velours bordeaux et au marbre noir.",
+    "keywords": {
+      "styles": ["art deco", "art déco", "contemporain"],
+      "couleurs": ["bordeaux", "noir", "ocre", "moutarde"],
+      "materiaux": ["laiton", "marbre", "velours", "verre"],
+      "meubles": ["console", "miroir", "table basse", "lampadaire"],
+      "themes": ["géométrie", "contraste", "luxe"]
+    },
+    "color_mentions": ["bordeaux", "noir", "ocre", "moutarde"],
+    "dominant_colors": [
+      {"hex": "#722F37", "rgb": [114, 47, 55]},
+      {"hex": "#1A1A1A", "rgb": [26, 26, 26]},
+      {"hex": "#D4AF37", "rgb": [212, 175, 55]},
+      {"hex": "#CC7722", "rgb": [204, 119, 34]},
+      {"hex": "#FFDB58", "rgb": [255, 219, 88]}
+    ]
+  },
+  {
+    "title": "Cottagecore meet French country : le renouveau de la campagne française",
+    "url": "https://www.cotesud.fr/cottagecore-campagne-francaise",
+    "source": "Côté Sud",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:35:00",
+    "content_preview": "Le cottagecore revisité à la française utilise le chêne massif, les faïences peintes à la main et les nappes brodées. Les tons rose pâle, vert sauge et lavande dominent les intérieurs provençaux.",
+    "keywords": {
+      "styles": ["campagne", "provençal", "rustique"],
+      "couleurs": ["rose", "sauge", "lavande", "blanc", "lin"],
+      "materiaux": ["chêne", "faïence", "lin", "coton"],
+      "meubles": ["armoire", "buffet", "table", "chaise"],
+      "themes": ["artisanat", "fait main", "cottagecore", "végétal"]
+    },
+    "color_mentions": ["rose", "sauge", "lavande", "blanc", "lin"],
+    "dominant_colors": [
+      {"hex": "#FFB6C1", "rgb": [255, 182, 193]},
+      {"hex": "#B2AC88", "rgb": [178, 172, 136]},
+      {"hex": "#B57EDC", "rgb": [181, 126, 220]},
+      {"hex": "#F5F5F5", "rgb": [245, 245, 245]},
+      {"hex": "#DEB887", "rgb": [222, 184, 135]}
+    ]
+  },
+  {
+    "title": "Dopamine décor : les couleurs vives pour booster l'énergie du quotidien",
+    "url": "https://www.elledecoration.fr/dopamine-decor-couleurs-2026",
+    "source": "Elle Décoration",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:40:00",
+    "content_preview": "Le mouvement dopamine décor ose les couleurs vives et les contrastes audacieux. Le jaune moutarde, le corail et le vert émeraude animent les pièces. Le mobilier design aux formes geometric apporte du caractère.",
+    "keywords": {
+      "styles": ["contemporain", "industriel"],
+      "couleurs": ["moutarde", "corail", "emeraude", "jaune", "petrole"],
+      "materiaux": ["métal", "verre", "chrome"],
+      "meubles": ["canapé", "fauteuil", "table basse", "bureau"],
+      "themes": ["dopamine", "contraste", "géométrie", "espace"]
+    },
+    "color_mentions": ["moutarde", "corail", "emeraude", "jaune", "petrole"],
+    "dominant_colors": [
+      {"hex": "#FFDB58", "rgb": [255, 219, 88]},
+      {"hex": "#FF6F61", "rgb": [255, 111, 97]},
+      {"hex": "#50C878", "rgb": [80, 200, 120]},
+      {"hex": "#005F69", "rgb": [0, 95, 105]},
+      {"hex": "#F5C518", "rgb": [245, 197, 24]}
+    ]
+  },
+  {
+    "title": "Matériaux bruts : béton, pierre et bois dans la décoration contemporaine",
+    "url": "https://www.cabana.fr/materiaux-bruts-deco-2026",
+    "source": "Cabana",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:45:00",
+    "content_preview": "Les matériaux bruts dominent les intérieurs contemporains. Le béton poli, la pierre de taille, le chêne brut et le métal brossé créent des espaces authentiques. Les tons graphites, acier et noyer sont privilégiés.",
+    "keywords": {
+      "styles": ["industriel", "contemporain", "minimaliste"],
+      "couleurs": ["graphite", "acier", "noir", "brut"],
+      "materiaux": ["béton", "pierre", "bois", "métal", "acier"],
+      "meubles": ["bureau", "étagère", "plan de travail", "îlot"],
+      "themes": ["contraste", "espace", "texture"]
+    },
+    "color_mentions": ["graphite", "acier", "noir"],
+    "dominant_colors": [
+      {"hex": "#383838", "rgb": [56, 56, 56]},
+      {"hex": "#71797E", "rgb": [113, 121, 126]},
+      {"hex": "#1A1A1A", "rgb": [26, 26, 26]},
+      {"hex": "#8B7355", "rgb": [139, 115, 85]},
+      {"hex": "#A9A9A9", "rgb": [169, 169, 169]}
+    ]
+  },
+  {
+    "title": "Velours d'automne : les teintes profondes pour l'intérieur",
+    "url": "https://www.cotesud.fr/velours-automne-teintes-profondes",
+    "source": "Côté Sud",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:50:00",
+    "content_preview": "Le velours bordeaux, le vert forêt et le bleu pétrole sont les teintes phares de la saison. Les coussins en velours, les rideaux lourds et les fauteuils tapissés transforment les salons.",
+    "keywords": {
+      "styles": ["baroque", "luxe", "contemporain"],
+      "couleurs": ["bordeaux", "vert", "petrole", "bordeaux"],
+      "materiaux": ["velours", "soie", "bois"],
+      "meubles": ["canapé", "fauteuil", "rideaux"],
+      "themes": ["luxe", "texture", "contraste"]
+    },
+    "color_mentions": ["bordeaux", "vert", "petrole"],
+    "dominant_colors": [
+      {"hex": "#722F37", "rgb": [114, 47, 55]},
+      {"hex": "#2D5A27", "rgb": [45, 90, 39]},
+      {"hex": "#005F69", "rgb": [0, 95, 105]},
+      {"hex": "#4A0E0E", "rgb": [74, 14, 14]},
+      {"hex": "#1A3C40", "rgb": [26, 60, 64]}
+    ]
+  },
+  {
+    "title": "L'îlot de cuisine : le cœur névralgique de la maison",
+    "url": "https://www.elledecoration.fr/ilot-cuisine-moderne-2026",
+    "source": "Elle Décoration",
+    "image_url": "",
+    "scraped_at": "2026-09-01T10:55:00",
+    "content_preview": "L'îlot de cuisine devient le centre de vie. Marbre blanc veines grises, plan de travail en noyer massif et robinetterie en laiton brossé. Le style scandinave intègre des touches warm de lin et de cuivre.",
+    "keywords": {
+      "styles": ["scandinave", "minimaliste", "contemporain"],
+      "couleurs": ["blanc", "noyer", "cuivre"],
+      "materiaux": ["marbre", "noyer", "laiton", "cuivre", "lin"],
+      "meubles": ["îlot", "plan de travail", "étagère"],
+      "themes": ["lumière naturelle", "espace", "texture"]
+    },
+    "color_mentions": ["blanc", "cuivre"],
+    "dominant_colors": [
+      {"hex": "#F5F5F5", "rgb": [245, 245, 245]},
+      {"hex": "#8B5E3C", "rgb": [139, 94, 60]},
+      {"hex": "#B87333", "rgb": [184, 115, 51]},
+      {"hex": "#E8E8E8", "rgb": [232, 232, 232]},
+      {"hex": "#D4AF37", "rgb": [212, 175, 55]}
+    ]
+  }
+]

@@ -1,0 +1,700 @@
+{
+  "generated_at": "2026-09-04T13:18:42.087807",
+  "total_articles": 12,
+  "sources": {
+    "Elle Décoration": 6,
+    "Cabana": 3,
+    "Côté Sud": 3
+  },
+  "top_keywords": [
+    {
+      "name": "lin",
+      "count": 9,
+      "score": 75.0
+    },
+    {
+      "name": "contemporain",
+      "count": 8,
+      "score": 66.7
+    },
+    {
+      "name": "bois",
+      "count": 6,
+      "score": 50.0
+    },
+    {
+      "name": "minimaliste",
+      "count": 5,
+      "score": 41.7
+    },
+    {
+      "name": "texture",
+      "count": 5,
+      "score": 41.7
+    },
+    {
+      "name": "étagère",
+      "count": 5,
+      "score": 41.7
+    },
+    {
+      "name": "espace",
+      "count": 5,
+      "score": 41.7
+    },
+    {
+      "name": "ocre",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "velours",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "pierre",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "canapé",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "table basse",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "artisanat",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "lumière naturelle",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "blanc",
+      "count": 4,
+      "score": 33.3
+    }
+  ],
+  "styles": [
+    {
+      "name": "contemporain",
+      "count": 8,
+      "score": 66.7
+    },
+    {
+      "name": "minimaliste",
+      "count": 5,
+      "score": 41.7
+    },
+    {
+      "name": "japonandi",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "scandinave",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "baroque",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "provençal",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "campagne",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "luxe",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "industriel",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "nordique",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "méridional",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "colonial",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "wabi-sabi",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "art deco",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "art déco",
+      "count": 1,
+      "score": 8.3
+    }
+  ],
+  "materials": [
+    {
+      "name": "bois",
+      "count": 6,
+      "score": 50.0
+    },
+    {
+      "name": "lin",
+      "count": 5,
+      "score": 41.7
+    },
+    {
+      "name": "velours",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "pierre",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "laiton",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "verre",
+      "count": 3,
+      "score": 25.0
+    },
+    {
+      "name": "marbre",
+      "count": 3,
+      "score": 25.0
+    },
+    {
+      "name": "céramique",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "béton",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "terre cuite",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "noyer",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "acier",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "métal",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "bambou",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "rotin",
+      "count": 1,
+      "score": 8.3
+    }
+  ],
+  "furniture": [
+    {
+      "name": "étagère",
+      "count": 5,
+      "score": 41.7
+    },
+    {
+      "name": "canapé",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "table basse",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "fauteuil",
+      "count": 3,
+      "score": 25.0
+    },
+    {
+      "name": "plan de travail",
+      "count": 3,
+      "score": 25.0
+    },
+    {
+      "name": "bureau",
+      "count": 3,
+      "score": 25.0
+    },
+    {
+      "name": "table",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "buffet",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "console",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "miroir",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "lampadaire",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "îlot",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "commode",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "chevet",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "armoire",
+      "count": 1,
+      "score": 8.3
+    }
+  ],
+  "tableware": [
+    {
+      "name": "vaisselle",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "bougeoir",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "nappe",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "centrepiece",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "carafe",
+      "count": 1,
+      "score": 8.3
+    }
+  ],
+  "themes": [
+    {
+      "name": "texture",
+      "count": 5,
+      "score": 41.7
+    },
+    {
+      "name": "espace",
+      "count": 5,
+      "score": 41.7
+    },
+    {
+      "name": "artisanat",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "lumière naturelle",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "contraste",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "fait main",
+      "count": 3,
+      "score": 25.0
+    },
+    {
+      "name": "luxe discret",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "biophilie",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "végétal",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "géométrie",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "luxe",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "confortcore",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "quiet luxury",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "symétrie",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "cottagecore",
+      "count": 1,
+      "score": 8.3
+    }
+  ],
+  "color_mentions": [
+    {
+      "name": "ocre",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "blanc",
+      "count": 4,
+      "score": 33.3
+    },
+    {
+      "name": "sauge",
+      "count": 3,
+      "score": 25.0
+    },
+    {
+      "name": "vert",
+      "count": 3,
+      "score": 25.0
+    },
+    {
+      "name": "lin",
+      "count": 3,
+      "score": 25.0
+    },
+    {
+      "name": "beige",
+      "count": 3,
+      "score": 25.0
+    },
+    {
+      "name": "noir",
+      "count": 3,
+      "score": 25.0
+    },
+    {
+      "name": "terracotta",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "bordeaux",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "moutarde",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "petrole",
+      "count": 2,
+      "score": 16.7
+    },
+    {
+      "name": "menthe",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "olive",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "bleu",
+      "count": 1,
+      "score": 8.3
+    },
+    {
+      "name": "océan",
+      "count": 1,
+      "score": 8.3
+    }
+  ],
+  "dominant_colors": [
+    {
+      "hex": "#CC7722",
+      "count": 4
+    },
+    {
+      "hex": "#8B7355",
+      "count": 3
+    },
+    {
+      "hex": "#DEB887",
+      "count": 3
+    },
+    {
+      "hex": "#1A1A1A",
+      "count": 3
+    },
+    {
+      "hex": "#D4AF37",
+      "count": 3
+    },
+    {
+      "hex": "#C2452D",
+      "count": 2
+    },
+    {
+      "hex": "#B2AC88",
+      "count": 2
+    },
+    {
+      "hex": "#2D5A27",
+      "count": 2
+    },
+    {
+      "hex": "#FAF0E6",
+      "count": 2
+    },
+    {
+      "hex": "#722F37",
+      "count": 2
+    },
+    {
+      "hex": "#FFDB58",
+      "count": 2
+    },
+    {
+      "hex": "#F5F5F5",
+      "count": 2
+    },
+    {
+      "hex": "#005F69",
+      "count": 2
+    },
+    {
+      "hex": "#F5F0E6",
+      "count": 1
+    },
+    {
+      "hex": "#98FF98",
+      "count": 1
+    },
+    {
+      "hex": "#808000",
+      "count": 1
+    },
+    {
+      "hex": "#F0E68C",
+      "count": 1
+    },
+    {
+      "hex": "#F5F5DC",
+      "count": 1
+    },
+    {
+      "hex": "#DAA520",
+      "count": 1
+    },
+    {
+      "hex": "#8B4513",
+      "count": 1
+    }
+  ],
+  "all_by_category": {
+    "styles": {
+      "contemporain": 8,
+      "minimaliste": 5,
+      "japonandi": 2,
+      "scandinave": 2,
+      "baroque": 2,
+      "provençal": 2,
+      "campagne": 2,
+      "luxe": 2,
+      "industriel": 2,
+      "nordique": 1,
+      "méridional": 1,
+      "colonial": 1,
+      "wabi-sabi": 1,
+      "art deco": 1,
+      "art déco": 1,
+      "rustique": 1
+    },
+    "couleurs": {
+      "ocre": 4,
+      "blanc": 4,
+      "lin": 4,
+      "sauge": 3,
+      "vert": 3,
+      "beige": 3,
+      "noir": 3,
+      "bordeaux": 3,
+      "terracotta": 2,
+      "moutarde": 2,
+      "petrole": 2,
+      "menthe": 1,
+      "olive": 1,
+      "bleu": 1,
+      "océan": 1,
+      "ciel": 1,
+      "anthracite": 1,
+      "camel": 1,
+      "magnolia": 1,
+      "sable": 1,
+      "rose": 1,
+      "lavande": 1,
+      "corail": 1,
+      "emeraude": 1,
+      "jaune": 1,
+      "graphite": 1,
+      "acier": 1,
+      "brut": 1,
+      "noyer": 1,
+      "cuivre": 1
+    },
+    "materiaux": {
+      "bois": 6,
+      "lin": 5,
+      "velours": 4,
+      "pierre": 4,
+      "laiton": 4,
+      "verre": 3,
+      "marbre": 3,
+      "céramique": 2,
+      "béton": 2,
+      "terre cuite": 2,
+      "noyer": 2,
+      "acier": 2,
+      "métal": 2,
+      "bambou": 1,
+      "rotin": 1,
+      "jute": 1,
+      "chêne": 1,
+      "faïence": 1,
+      "coton": 1,
+      "chrome": 1,
+      "soie": 1,
+      "cuivre": 1
+    },
+    "meubles": {
+      "étagère": 5,
+      "canapé": 4,
+      "table basse": 4,
+      "fauteuil": 3,
+      "plan de travail": 3,
+      "bureau": 3,
+      "table": 2,
+      "buffet": 2,
+      "console": 2,
+      "miroir": 2,
+      "lampadaire": 2,
+      "îlot": 2,
+      "commode": 1,
+      "chevet": 1,
+      "armoire": 1,
+      "chaise": 1,
+      "rideaux": 1
+    },
+    "themes": {
+      "texture": 5,
+      "espace": 5,
+      "artisanat": 4,
+      "lumière naturelle": 4,
+      "contraste": 4,
+      "fait main": 3,
+      "luxe discret": 2,
+      "biophilie": 2,
+      "végétal": 2,
+      "géométrie": 2,
+      "luxe": 2,
+      "confortcore": 1,
+      "quiet luxury": 1,
+      "symétrie": 1,
+      "cottagecore": 1,
+      "dopamine": 1
+    },
+    "art_de_la_table": {
+      "vaisselle": 1,
+      "bougeoir": 1,
+      "nappe": 1,
+      "centrepiece": 1,
+      "carafe": 1
+    }
+  }
+}
