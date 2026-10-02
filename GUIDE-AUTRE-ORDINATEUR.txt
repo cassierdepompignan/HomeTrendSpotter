@@ -1,8 +1,8 @@
 ====================================================================
-  HomeTrendSpotter - GUIDE D'INSTALLATION SUR UN NOUVEL ORDINATEUR
+  objo.design - GUIDE D'INSTALLATION SUR UN NOUVEL ORDINATEUR
 ====================================================================
 Cree le : 04/09/2026
-Votre projet est sauvegarde sur GitHub : https://github.com/cassierdepompignan/HomeTrendSpotter
+Votre projet est sauvegarde sur GitHub : https://github.com/cassierdepompignan/objo.design
 
 Ce guide vous permet de recuperer et lancer votre projet sur un autre ordinateur.
 Suivez les etapes dans l'ordre.
@@ -37,10 +37,10 @@ ETAPE 2 - RECUPERER LE PROJET DEPUIS GITHUB
    Une petite fenetre noire s'ouvre.
 
 2) Recuperez le projet en tapant cette commande puis Entree :
-   git clone https://github.com/cassierdepompignan/HomeTrendSpotter.git
+   git clone https://github.com/cassierdepompignan/objo.design.git
 
 3) Entrez dans le dossier du projet :
-   cd HomeTrendSpotter
+   cd objo.design
 
 4) Installez les dependances (les bibliotheques du projet) :
    npm install
@@ -58,7 +58,7 @@ Vous verrez s'afficher quelque chose comme :
 
 Ouvrez votre navigateur et allez sur :
    http://localhost:3000
-   -> Votre application HomeTrendSpotter est la !
+   -> Votre application objo.design est la !
 
 Pour ARRETER le site, faites Ctrl + C dans Git Bash.
 
@@ -84,7 +84,7 @@ PETITS RAPPELS UTILES
 
 - Le projet actuel s'appelait au debut "deco-trends", mais c'est le meme code.
 - Le nom de l'application (dans le code) est encore "DecoTrends" par endroits.
-  On pourra tout renommer en "HomeTrendSpotter" plus tard.
+  On pourra tout renommer en "objo.design" plus tard.
 - Pour envoyer vos modifications sur GitHub (a faire apres chaque changement) :
      git add -A
      git commit -m "Description de ce que j'ai change"

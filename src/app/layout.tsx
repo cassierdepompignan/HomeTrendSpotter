@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HomeTrendSpotter - Tendances Decoration Analyse par IA",
+  title: "objo.design - Tendances Decoration Analyse par IA",
   description:
-    "HomeTrendSpotter analyse les magazines de decoration pour reveler les couleurs, styles, materiaux et themes tendance.",
+    "objo.design analyse les magazines de decoration pour reveler les couleurs, styles, materiaux et themes tendance.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

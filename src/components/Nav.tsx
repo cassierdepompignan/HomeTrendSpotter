@@ -20,7 +20,7 @@ export default function Nav() {
       <div className="max-w-7xl mx-auto px-6 h-14 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2 font-bold text-zinc-900">
           <span className="text-xl">🏠</span>
-          <span className="text-sm">HomeTrendSpotter</span>
+          <span className="text-sm">objo.design</span>
         </Link>
 
         <div className="flex items-center gap-1 overflow-x-auto">
