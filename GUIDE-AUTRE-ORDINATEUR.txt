@@ -29,6 +29,8 @@ Tous ces outils sont GRATUITS.
    -> Cliquez sur "Download for Windows"
    -> Lancez l'installeur, acceptez tout
 
+OPEN CODE
+
 --------------------------------------------------------------------
 ETAPE 2 - RECUPERER LE PROJET DEPUIS GITHUB
 --------------------------------------------------------------------
