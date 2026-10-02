@@ -33,7 +33,7 @@ export default function Home() {
             <div className="w-10 h-10 bg-gradient-to-br from-amber-500 to-orange-400 rounded-xl flex items-center justify-center text-white font-bold text-lg">
               D
             </div>
-            <h1 className="text-xl font-bold text-zinc-900">DecoTrends</h1>
+            <h1 className="text-xl font-bold text-zinc-900">objo.design</h1>
           </div>
           <nav className="flex gap-6">
             <Link href="/" className="text-sm font-medium text-zinc-900 border-b-2 border-amber-500 pb-1">
@@ -59,7 +59,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="text-lg text-zinc-500 max-w-2xl mx-auto">
-            DecoTrends scrape et analyse les magazines de décoration pour vous révéler
+            objo.design scrape et analyse les magazines de décoration pour vous révéler
             les couleurs, styles, matériaux et thèmes qui cartonnent.
           </p>
         </div>
